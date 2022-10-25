@@ -1,5 +1,4 @@
-# Java Training Capstone Project
-## Banking Services API
+# Banking Services API
 
 ### Description:
 
