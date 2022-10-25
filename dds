@@ -1,0 +1,263 @@
+[33mcommit 02bdb767fe612a1b1a95f675bcc08eb30f4ec2c5[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: Will Garrett <Will.garrett@ey.com>
+Date:   Mon Sep 26 17:21:49 2022 -0400
+
+    Creating and deleting with statements
+
+[33mcommit 4ed5d18d50c2689e518f50e0b125831ba96caf21[m
+Merge: 28a158d 1ab19dd
+Author: Will Garrett <Will.garrett@ey.com>
+Date:   Sun Sep 25 16:49:44 2022 -0400
+
+    Merge branch 'dev' of https://github.com/k0dygentry/BankingServicesAPI into dev
+
+[33mcommit 28a158da522da2785f187f24f7cf085a01ed6486[m
+Author: Will Garrett <Will.garrett@ey.com>
+Date:   Sun Sep 25 16:48:59 2022 -0400
+
+    Account creation with 100 limitation
+
+[33mcommit 52216df0cd2cfbf9570dafc4f95759d652ecf9a7[m
+Author: Will Garrett <Will.garrett@ey.com>
+Date:   Fri Sep 23 18:33:00 2022 -0400
+
+    Short term save
+
+[33mcommit 1ab19dd923e016ddcbec200ecd6601914e528188[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Fri Sep 23 16:35:03 2022 -0500
+
+    minor updates
+
+[33mcommit c027502bcdb7698f1bd8b9ab048983612d6250f4[m
+Author: Sasank Inagandla <Sasank.Inagandla@ey.com>
+Date:   Fri Sep 23 15:43:03 2022 -0500
+
+    I added stuff on aspects
+
+[33mcommit bb12975f871113f42d1c3b89a0d08123776fb9aa[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Fri Sep 23 15:29:39 2022 -0500
+
+    auth stuff
+
+[33mcommit 2c4f71908ae12b85432ebe052cc867f3663e1b9b[m
+Merge: f70e840 23667e4
+Author: Will Garrett <Will.garrett@ey.com>
+Date:   Fri Sep 23 16:26:00 2022 -0400
+
+    Merge branch 'dev' of https://github.com/k0dygentry/BankingServicesAPI into dev
+
+[33mcommit f70e840a89f2e587c2eca85f5ec311ff756638b8[m
+Author: Will Garrett <Will.garrett@ey.com>
+Date:   Fri Sep 23 16:21:51 2022 -0400
+
+    Deposit and Withdraw
+
+[33mcommit 23667e4cf708d1653964109f521d003c6e7739a7[m
+Author: Sasank Inagandla <Sasank.Inagandla@ey.com>
+Date:   Fri Sep 23 14:41:15 2022 -0500
+
+    I did stuff in delete account
+
+[33mcommit 471a172b18706315aa981dabc08ee39b69cf2c5d[m
+Author: Sasank Inagandla <Sasank.Inagandla@ey.com>
+Date:   Fri Sep 23 13:29:19 2022 -0500
+
+    Aspect added kinda
+
+[33mcommit b9d9c3f96213b6f6675881c6c824e2f08cf679e9[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Fri Sep 23 12:47:06 2022 -0500
+
+    add microservices dir/account and statements services with basic spring architecture
+
+[33mcommit 43f28c4e601e61c6f7c146cbb1425d60577eecd6[m
+Merge: c472727 64ec3c8
+Author: Will Garrett <Will.garrett@ey.com>
+Date:   Thu Sep 22 19:55:31 2022 -0400
+
+    Merge branch 'dev' of https://github.com/k0dygentry/BankingServicesAPI into dev
+
+[33mcommit c4727279135c911e00c38aac27ee9804c256e86f[m
+Author: Will Garrett <Will.garrett@ey.com>
+Date:   Thu Sep 22 19:44:51 2022 -0400
+
+    Input via body works
+
+[33mcommit 64ec3c8573331c0294f1e827149fb1740a98b162[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Thu Sep 22 15:50:27 2022 -0500
+
+    update
+
+[33mcommit 40e4f2ad24a7a72afed890fe2f75d7209801ad21[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Thu Sep 22 14:22:14 2022 -0500
+
+    account type
+
+[33mcommit 23f616ee338007c65ff322a37feac44dd0051a59[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Thu Sep 22 11:43:20 2022 -0500
+
+    filter functions
+
+[33mcommit 5f146de6066c2ce9cc9fcd9245de4e83af2db796[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Thu Sep 22 11:09:58 2022 -0500
+
+    handle conflict
+
+[33mcommit 3d594e75f2fe5ce70c80bc61343f5239ec9737c3[m
+Merge: a414fb2 84ac43e
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Thu Sep 22 11:07:05 2022 -0500
+
+    Merge branch 'dev' of https://github.com/k0dygentry/BankingServicesAPI into dev
+
+[33mcommit a414fb234e4ee837dd5f96598022542c8b9c13a5[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Thu Sep 22 11:06:49 2022 -0500
+
+    bsc update
+
+[33mcommit 84ac43ee7111eb8d6a5e841cf47257294ec3303f[m
+Merge: 02fc06b 003ee69
+Author: Sasank Inagandla <Sasank.Inagandla@ey.com>
+Date:   Thu Sep 22 11:04:25 2022 -0500
+
+    I added stuff in BankStatemetServiceImpl
+
+[33mcommit 02fc06b5e0a78a88e47bdf94727e7557b229e86b[m
+Author: Sasank Inagandla <Sasank.Inagandla@ey.com>
+Date:   Thu Sep 22 10:47:28 2022 -0500
+
+    Changes to Bank Statement
+
+[33mcommit 003ee6904faacb6a6edeb78fbeeee707256cdebc[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Thu Sep 22 10:46:00 2022 -0500
+
+    update
+
+[33mcommit c61f00a7c4f2ba4ae2834e530538e5d3817b1e40[m
+Author: Sasank Inagandla <Sasank.Inagandla@ey.com>
+Date:   Thu Sep 22 10:17:06 2022 -0500
+
+    I added some stuff
+
+[33mcommit 077b2dd5a2399697f5046e013a0e4d0fc95e3da7[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Wed Sep 21 15:26:53 2022 -0500
+
+    update
+
+[33mcommit 8c8c8d215c831fcf257a37bc0c2dbd9d99ed185d[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Wed Sep 21 15:21:09 2022 -0500
+
+    bank statement stuff
+
+[33mcommit f808073997486ab4a93a782cb576644c91e7cca2[m
+Author: Sasank Inagandla <Sasank.Inagandla@ey.com>
+Date:   Wed Sep 21 15:15:47 2022 -0500
+
+    I added the accounts in Accounts Controler
+
+[33mcommit a7d706959df1c0a25f35df0ab3fff17d9c1fe3d4[m
+Merge: 2f565f4 7f3f3cf
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Wed Sep 21 14:59:50 2022 -0500
+
+    Merge branch 'dev' of https://github.com/k0dygentry/BankingServicesAPI into dev
+
+[33mcommit 2f565f470119df0525c722ed9ff5dab260d2b512[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Wed Sep 21 14:58:26 2022 -0500
+
+    added account-service impl and account controller stuff
+
+[33mcommit 7f3f3cf77ae66e9f1fefce4c0dcab38bf94f1c86[m
+Author: Sasank Inagandla <Sasank.Inagandla@ey.com>
+Date:   Wed Sep 21 14:33:00 2022 -0500
+
+    I added something
+
+[33mcommit c4c9deb813d8d152c018e9b299f559f558fe3c0e[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Wed Sep 21 14:22:40 2022 -0500
+
+    added bank-statement header and impl
+
+[33mcommit b34759d97bcd2ed66e76e7945747f3e7848529b0[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Wed Sep 21 14:21:04 2022 -0500
+
+    implemented actor controller
+
+[33mcommit a609860178436f82b7a9399af3c8a5488eda3c43[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Wed Sep 21 13:55:22 2022 -0500
+
+    update packages
+
+[33mcommit 72c07ed417c88812c99b33203ef559d209ab26c9[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Wed Sep 21 13:53:54 2022 -0500
+
+    update bank statements and account service
+
+[33mcommit bc62243f13d169a3831c804d0475b0f0b60e0263[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Wed Sep 21 13:32:22 2022 -0500
+
+    update
+
+[33mcommit 35368cb2dd84f61ef8e51bf37db5e830ce90f6bb[m
+Author: Sasank Inagandla <Sasank.Inagandla@ey.com>
+Date:   Wed Sep 21 13:02:19 2022 -0500
+
+    Update
+
+[33mcommit beff4597ce1b1dbb5c6090b8e8e03166367979c9[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Wed Sep 21 11:40:06 2022 -0500
+
+    add models
+
+[33mcommit c85cdab3bbcd91cdcbcc6a5b8666b037aaa0797c[m
+Author: Sasank Inagandla <Sasank.Inagandla@ey.com>
+Date:   Wed Sep 21 11:37:22 2022 -0500
+
+    I added everything we need
+
+[33mcommit 11e8d0ae753b60b3bcc3f5c64d4ec7200dfa809e[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Wed Sep 21 10:47:17 2022 -0500
+
+    add some models
+
+[33mcommit b52f2508b17fdb1ab72f50b2d14c07e162ac84a8[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Mon Sep 19 14:35:23 2022 -0500
+
+    test commit
+
+[33mcommit c8725c95ec7e8d4cb1398361cc778753e4ad7257[m
+Author: Kody Gentry <Kody.Gentry@ey.com>
+Date:   Mon Sep 19 13:53:00 2022 -0500
+
+    added basic spring app architecture
+
+[33mcommit b3835286ded9282a346d307b40bc1f2d96a1600d[m
+Author: k0dygentry <111148646+k0dygentry@users.noreply.github.com>
+Date:   Fri Sep 16 14:22:23 2022 -0500
+
+    Update README.md
+
+[33mcommit db9f05bdb847cd41855d4f72b88116fd921e179c[m
+Author: k0dygentry <111148646+k0dygentry@users.noreply.github.com>
+Date:   Fri Sep 16 14:20:21 2022 -0500
+
+    Create README.md
